@@ -6,6 +6,15 @@
 ## Moviebase: TV & Movie Tracker 5.3.21 apk API Endpoint 분석 결과
 ![자동화구현영상](https://github.com/user-attachments/assets/ad486de6-a742-422b-a858-a391d435ea86)
 
+- 해당 자동화 코드를 통해 얻을 수 있는 효과는 다음과 같다.
+    - 아래와 같이 apk 내 존재하는 endpoint “path”의 후보 검색
+    - 해당 path들이 어떤 HTTP-Method로 사용되는지 알 수 있음
+    - 어떤 파일에서 해당 endpoint path들을 발견할 수 있는지 알 수 있음
+    - 즉, “현재까지 알고있는” `METHOD-PATH-DIRECTORY` 의 관계를 바로 확인가능
+    - 추가로, 내가 모르는 Annotation들과, 앞으로 분석해야할 path들에 대해서도 알 수 있음
+- 한계
+    - BASE URL은 아직 구하지 못하여, 정적분석이 다시 필요함 -> 즉, endpoint가 바로 나오진 않음.
+
 ## 참고 사항
 위의 API Endpoint 분석 결과 영상은 Trakt TV의 Android APK를 정적 분석하여 얻은 API 엔드포인트 정보를 정리한 것입니다.
 - 포함된 정보: HTTP 메소드, path, 파일명
