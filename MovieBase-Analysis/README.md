@@ -3,7 +3,7 @@
 - **분석 대상:** [**Moviebase: TV & Movie Tracker 5.3.21**](https://www.apkmirror.com/apk/chris-krueger/moviebase-manage-movies-tv-shows/moviebase-tv-movie-tracker-5-3-21-release/)
 - **분석 환경 및 도구:** JEB, apktool
 
-## Trakt TV APK API Endpoint 분석 결과
+## Moviebase: TV & Movie Tracker 5.3.21 apk API Endpoint 분석 결과
 ![자동화구현영상](https://github.com/user-attachments/assets/ad486de6-a742-422b-a858-a391d435ea86)
 
 ## 참고 사항
