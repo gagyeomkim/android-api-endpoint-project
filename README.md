@@ -23,3 +23,4 @@
 **Plan**
 
 - 2025-07-09 ~ 2025-07-15 | [OkHttp 동기식&비동기식 GET, POST 코드 실습](OkHttp-Analysis)
+- 2025-07-09 ~ 2025-07-15 | [OkHttp 동기식&비동기식 GET, POST 코드 실습](MovieBase-Analysis)
