@@ -5,7 +5,6 @@
 
 ## Trakt TV APK API Endpoint 분석 결과
 ![자동화구현영상](https://github.com/user-attachments/assets/ad486de6-a742-422b-a858-a391d435ea86)
-- [api endpoint 분석 과정]()
 
 ## 참고 사항
 본 문서는 Trakt TV의 Android APK를 정적 분석하여 얻은 API 엔드포인트 정보를 정리한 것입니다.
